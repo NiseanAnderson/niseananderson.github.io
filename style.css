@@ -1,0 +1,30 @@
+.float-right {
+  float: right;
+  margin-left:10px;
+}
+.page-heading{
+  font-family: Sancreek;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+
+color: #FFF1F1;
+background-color:black;
+text-align: center;
+padding:20px;
+}
+.navbar{
+  background-color:black;
+}
+a {
+  color:aqua;
+}
+a:hover {
+  color: coral;
+}
+ul {
+  display:flex;
+  justify-content: space-between;
+  list-style: none; 
+}
